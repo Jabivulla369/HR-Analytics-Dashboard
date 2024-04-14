@@ -32,15 +32,6 @@ Here's how I did it:-
 
 🔸 Predictive Analytics: Leveraging historical data, we implemented predictive models to forecast potential attrition risks and identify high-performing employees at risk of leaving. This proactive approach enables timely intervention to retain top talent.
 
-✅ Benefits:-
-
-🔹 Data-Driven Decision Making: Our dashboard equips HR professionals and organizational leaders with real-time, actionable insights, enabling informed decision-making to drive performance improvement initiatives.
-
-🔹 Proactive Retention Strategies: By identifying attrition trends and risk factors early on, organizations can implement targeted retention strategies such as personalized career development plans, mentorship programs, and improved work-life balance initiatives.
-
-🔹 Enhanced Employee Experience: Understanding employee sentiment and engagement levels allows organizations to address concerns promptly, fostering a positive work environment and boosting employee satisfaction and loyalty.
-
-
 Insights:-
 
 1. The average age of employees is 37.
@@ -48,6 +39,14 @@ Insights:-
 3. The percentage of male employees is greater than female employees.
 4. The highest number of employees in the Research & Development department.
 
+
+✅ Benefits:-
+
+🔹 Data-Driven Decision Making: Our dashboard equips HR professionals and organizational leaders with real-time, actionable insights, enabling informed decision-making to drive performance improvement initiatives.
+
+🔹 Proactive Retention Strategies: By identifying attrition trends and risk factors early on, organizations can implement targeted retention strategies such as personalized career development plans, mentorship programs, and improved work-life balance initiatives.
+
+🔹 Enhanced Employee Experience: Understanding employee sentiment and engagement levels allows organizations to address concerns promptly, fostering a positive work environment and boosting employee satisfaction and loyalty.
 
 
 ![HR Report](https://github.com/Jabivulla369/HR-Analytics-Dashboard/assets/122985980/941aece9-fdd4-4eff-a5d4-662560342feb)
